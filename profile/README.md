@@ -6,4 +6,3 @@
 
 ## Полезные ссылки
 [**Дискорд сервер**](https://discord.gg/e7AJWyXnKp)
-**[Дискорд сервер](https://discord.gg/e7AJWyXnKp)**
