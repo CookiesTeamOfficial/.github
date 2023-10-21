@@ -4,5 +4,5 @@
 ```Как видиш пока пусто но скоро мы что-то сделаем```
 
 ## Полезные ссылки
-[**Discord Guild**](https://discord.gg/e7AJWyXnKp)
+[**Дискорд сервер**](https://discord.gg/e7AJWyXnKp)
 
