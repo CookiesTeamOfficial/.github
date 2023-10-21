@@ -1,3 +1,4 @@
+
 # Привет друг, ты попал на страницу github - Cookies Team
 
 ## Наши работы
@@ -5,4 +6,4 @@
 
 ## Полезные ссылки
 [**Дискорд сервер**](https://discord.gg/e7AJWyXnKp)
-
+**[Дискорд сервер](https://discord.gg/e7AJWyXnKp)**
