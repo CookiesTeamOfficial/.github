@@ -1,5 +1,5 @@
 
-# Привет друг, ты попал на страницу github - Cookies Team
+# Привет друг, ты попал в гитхаб Cookies Team
 
 ## Наши работы
 - [BebroBot](https://github.com/CookiessTeam/BebraBot)
